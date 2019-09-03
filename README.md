@@ -72,7 +72,7 @@ With $11 billion asset under management (AUM), Wealthfront is a leading force in
 
 * Offering more investment products can achieve higher returns and attract more high-net-worth individuals who can tolerate more risk. 
 
-* The company might need to utilize more AI and machine learning to achieve this goal.
+* The company might need to utilize more AI, machine learning and algorithmic trading to achieve this goal.
 ------
 ## **References**
 1. https://app.cbinsights.com/profiles/c/okjO/fundings
